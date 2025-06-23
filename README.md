@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-Since I wrote my first lines of code at the age of 9, I've been passionate about technology and programming across all levels of abstraction — from writing device drivers to building machine learning pipelines in the cloud.
+Since I wrote my first lines of code at the age of 9, I've been passionate about technology and programming across all levels of abstraction, from writing device drivers to building machine learning pipelines in the cloud.
 
 - 🧠 Currently pursuing a postgraduate degree in **Machine Learning Engineering**
 - 💼 Bachelor's in **Computer Engineering**
@@ -17,6 +17,14 @@ Since I wrote my first lines of code at the age of 9, I've been passionate about
 - 💾 Passionate about **low-level systems programming**, native apps, and graphics engines
 - ☁️ Architected and managed **HIPAA-compliant cloud environments on AWS** for 5+ years
 - 🔬 Love for **math**, especially linear algebra and geometry, fuels my work in 3D and simulations
+
+---
+
+## 🌐 Languages I Speak
+
+- 🇧🇷 **Portuguese** (Native)
+- 🇺🇸 **English** (Fluent)
+- 🇪🇸 **Spanish** (Intermediate)
 
 ---
 
